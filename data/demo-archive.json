@@ -1,0 +1,30 @@
+{
+  "title": "Philosophy Archive — Demonstration Dataset",
+  "dataset_type": "fictional_demo_only",
+  "records": [
+    {
+      "id": "DEMO-001",
+      "title": "A note about attention",
+      "type": "Reflection",
+      "author_label": "Fictional demo entry",
+      "source_id": "DEMO-SOURCE-01",
+      "text": "Illustrative placeholder text used to demonstrate how one record is displayed and searched. This is not a quotation from the private archive."
+    },
+    {
+      "id": "DEMO-002",
+      "title": "A question with a recorded response",
+      "type": "Question / Answer",
+      "author_label": "Fictional demo entry",
+      "source_id": "DEMO-SOURCE-02",
+      "text": "A demonstration record showing how a question and its response can be kept together with a stable identifier and source reference."
+    },
+    {
+      "id": "DEMO-003",
+      "title": "A preserved disagreement",
+      "type": "Conflict",
+      "author_label": "Fictional demo entry",
+      "source_id": "DEMO-SOURCE-03",
+      "text": "Version A: an illustrative position. Version B: an illustrative alternative. Status: owner decision requested. The interface preserves both sides rather than silently choosing one."
+    }
+  ]
+}

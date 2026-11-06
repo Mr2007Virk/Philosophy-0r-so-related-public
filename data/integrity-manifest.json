@@ -1,0 +1,6 @@
+{
+  "file": "demo-archive.json",
+  "algorithm": "SHA-256",
+  "sha256": "17e0f598725b015a98107e9286d22c7af392a7e6ea8c5a0f39164713ca5c16cc",
+  "description": "Pinned fingerprint for this fictional demonstration dataset. It is not a private archive fingerprint."
+}
